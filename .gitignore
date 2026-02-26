@@ -282,6 +282,8 @@ ServiceFabricBackup/
 *.ldf
 *.ndf
 
+ConsoleApp1.sln
+App.config
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
@@ -306,6 +308,7 @@ node_modules/
 
 # Visual Studio 6 workspace options file
 *.opt
+
 
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
@@ -416,3 +419,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+*.sln
+*.config
