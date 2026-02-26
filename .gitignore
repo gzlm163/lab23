@@ -282,7 +282,7 @@ ServiceFabricBackup/
 *.ldf
 *.ndf
 
-ConsoleApp1.sln
+ConsoleApp2.sln
 App.config
 # Business Intelligence projects
 *.rdl.data
@@ -412,6 +412,8 @@ FodyWeavers.xsd
 
 # Built Visual Studio Code Extensions
 *.vsix
+*.slnx
+**/App.config
 
 # Windows Installer files from build outputs
 *.cab
